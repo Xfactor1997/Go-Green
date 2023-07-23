@@ -553,6 +553,9 @@ footer span:hover {
     .home-text {
         padding-top: 10px;
     }
+    .home-text h1 {
+        font-size: 15px;
+    }
     .home-text p {
         font-size: 10px;
         text-align: justify;
