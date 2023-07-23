@@ -551,7 +551,11 @@ footer span:hover {
         width: 100%;
     }
     .home-text {
-        padding-top: 20px;
+        padding-top: 10px;
+    }
+    .home-text p {
+        font-size: 10px;
+        text-align: justify;
     }
     #menu-icon {
     font-size: 15px;
@@ -567,7 +571,7 @@ footer span:hover {
     }
     .about-img img {
         height: auto;
-        max-width: 150px;
+        max-width: 300px;
         width: 100%;
     }
     .offers {
