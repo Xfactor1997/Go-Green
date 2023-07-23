@@ -559,6 +559,7 @@ footer span:hover {
     }
     #menu-icon {
     font-size: 15px;
+    padding-right: 50px;
     color: var(--bg-color);
     z-index: 10001;
     cursor: pointer;
