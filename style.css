@@ -580,7 +580,7 @@ footer span:hover {
         width: 50%;
         height: auto;
         display: block;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
     }
     .review-box iframe {
