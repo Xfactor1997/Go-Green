@@ -412,7 +412,7 @@ footer span:hover {
 }
 @media(max-width: 880px) {
     section {
-        padding: 80px 2%;
+        padding: 60px 2%;
         transition: .2s;
     }
     .h-icons {
@@ -507,9 +507,9 @@ footer span:hover {
         align-items: center;
     }
 }
-/* @media(max-width: 425px) {
+@media(max-width: 425px) {
     section {
-        padding: 80px 2%;
+        padding: 40px 2%;
         transition: .2s;
     }
     :root {
@@ -552,4 +552,4 @@ footer span:hover {
         justify-content: space-between;
         align-items: center;
     }
-} */
+}
