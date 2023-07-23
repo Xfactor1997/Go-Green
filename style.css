@@ -606,6 +606,10 @@ footer span:hover {
     justify-content: space-between;
     box-shadow: 2px 2px 10px 1px #858585 ;
 }
+    .reviews {
+        width: 100%;
+        height: auto;
+    }
     .review-box iframe {
     width: 370px;
     height: 150px;
