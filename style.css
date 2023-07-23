@@ -530,6 +530,8 @@ footer span:hover {
 @media(max-width: 425px) {
     section {
         padding: 20px 0.25%;
+        width: 100%;
+        overflow: hidden;
         transition: .2s;
     }
     :root {
