@@ -539,11 +539,12 @@ footer span:hover {
     }
     .home {
         grid-template-columns: 1fr;
-        height: 80vh;
+        height: 100vh;
     }
+/*        
     .home-img {
         text-align: center;
-    }
+    } */
     .home-img img {
         display:none;
         height: auto;
@@ -604,12 +605,12 @@ footer span:hover {
     box-shadow: 2px 2px 10px 1px #858585 ;
 }
     .review-box iframe {
-    width: 200px;
+    width: 300px;
     height: 150px;
     left: 0;
     border:none;
     display: block;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column ;
     justify-content: space-between;
     }
