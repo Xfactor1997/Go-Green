@@ -553,6 +553,12 @@ footer span:hover {
     .home-text {
         padding-top: 20px;
     }
+    #menu-icon {
+    font-size: 20px;
+    color: var(--bg-color);
+    z-index: 10001;
+    cursor: pointer;
+    }
     .about {
         grid-template-columns: 1fr;
     }
