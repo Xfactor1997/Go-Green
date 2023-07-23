@@ -412,7 +412,7 @@ footer span:hover {
 }
 @media(max-width: 880px) {
     section {
-        padding: 60px 2%;
+        padding: 40px 1.5%;
         transition: .2s;
     }
     .h-icons {
@@ -547,14 +547,14 @@ footer span:hover {
     .home-img img {
         display:none;
         height: auto;
-        max-width: 200px;
+        max-width: 150px;
         width: 100%;
     }
     .home-text {
         padding-top: 20px;
     }
     #menu-icon {
-    font-size: 20px;
+    font-size: 15px;
     color: var(--bg-color);
     z-index: 10001;
     cursor: pointer;
@@ -567,7 +567,7 @@ footer span:hover {
     }
     .about-img img {
         height: auto;
-        max-width: 300px;
+        max-width: 150px;
         width: 100%;
     }
     .offers {
