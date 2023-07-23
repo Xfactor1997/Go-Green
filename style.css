@@ -614,6 +614,7 @@ footer span:hover {
     width: 370px;
     height: 150px;
     left: 0;
+    margin: 20px;
     border:none;
     display: block;
     align-items: center;
