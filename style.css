@@ -542,6 +542,7 @@ footer span:hover {
         height: 80vh;
     }
     .home-img {
+        display:none;
         text-align: center;
     }
     .home-img img {
