@@ -548,7 +548,6 @@ footer span:hover {
         text-align: center;
     } */
     .home-img img {
-        display:none;
         height: auto;
         max-width: 150px;
         width: 100%;
@@ -614,7 +613,7 @@ footer span:hover {
     width: 370px;
     height: 150px;
     left: 0;
-    margin: 20px;
+    margin-top: 30px;
     border:none;
     display: block;
     align-items: center;
