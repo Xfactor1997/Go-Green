@@ -460,6 +460,16 @@ footer span:hover {
         justify-content: space-between;
         align-items: center;
     }
+    .review-box iframe {
+    width: 500px;
+    height: 270px;
+    left: 0;
+    border:none;
+    display: block;
+    align-items: flex-start;
+    flex-direction: column ;
+    justify-content: space-between;
+    }
 }
 @media(max-width: 820px) {
     section {
@@ -506,6 +516,16 @@ footer span:hover {
         justify-content: space-between;
         align-items: center;
     }
+    .review-box iframe {
+    width: 500px;
+    height: 270px;
+    left: 0;
+    border:none;
+    display: block;
+    align-items: flex-start;
+    flex-direction: column ;
+    justify-content: space-between;
+    }
 }
 @media(max-width: 425px) {
     section {
@@ -551,5 +571,15 @@ footer span:hover {
         display: block;
         justify-content: space-between;
         align-items: center;
+    }
+    .review-box iframe {
+    width: 450px;
+    height: 200px;
+    left: 0;
+    border:none;
+    display: block;
+    align-items: flex-start;
+    flex-direction: column ;
+    justify-content: space-between;
     }
 }
