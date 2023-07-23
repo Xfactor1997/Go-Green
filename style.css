@@ -529,7 +529,7 @@ footer span:hover {
 }
 @media(max-width: 425px) {
     section {
-        padding: 40px 0.5%;
+        padding: 30px 0.25%;
         transition: .2s;
     }
     :root {
@@ -539,7 +539,7 @@ footer span:hover {
     }
     .home {
         grid-template-columns: 1fr;
-        height: 100vh;
+        height: 80vh;
     }
     .home-img {
         text-align: center;
@@ -550,7 +550,7 @@ footer span:hover {
         width: 100%;
     }
     .home-text {
-        padding-top: 30px;
+        padding-top: 20px;
     }
     .about {
         grid-template-columns: 1fr;
@@ -564,7 +564,7 @@ footer span:hover {
         width: 100%;
     }
     .offers {
-        padding: 60px 1%;
+        padding: 40px 1%;
         transition: .2s;
         width: 50%;
         height: auto;
