@@ -529,7 +529,7 @@ footer span:hover {
 }
 @media(max-width: 425px) {
     section {
-        padding: 30px 0.25%;
+        padding: 20px 0.25%;
         transition: .2s;
     }
     :root {
@@ -571,7 +571,7 @@ footer span:hover {
         width: 100%;
     }
     .offers {
-        padding: 40px 1%;
+        padding: 30px 1%;
         transition: .2s;
         width: 50%;
         height: auto;
@@ -580,7 +580,7 @@ footer span:hover {
         align-items: center;
     }
     .review-box iframe {
-    width: 250px;
+    width: 200px;
     height: 150px;
     left: 0;
     border:none;
