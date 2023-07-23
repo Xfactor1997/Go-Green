@@ -542,10 +542,10 @@ footer span:hover {
         height: 80vh;
     }
     .home-img {
-        display:none;
         text-align: center;
     }
     .home-img img {
+        display:none;
         height: auto;
         max-width: 200px;
         width: 100%;
