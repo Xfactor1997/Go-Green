@@ -584,6 +584,9 @@ footer span:hover {
         align-items: center;
         overflow: hidden;
     }
+    #basic , #standard, #premium h2 {
+        font-size: 15px;
+    }
     #basic , #standard, #premium {
     width: 200px;
     height: 300px;
