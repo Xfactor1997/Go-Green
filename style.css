@@ -470,10 +470,6 @@ footer span:hover {
     flex-direction: column ;
     justify-content: space-between;
     }
-    @keyframes aboutSpinner {
-    75% {
-        transform: translate(-50% , -50%) rotate(360deg);
-    }
 }
 @media(max-width: 820px) {
     section {
@@ -529,10 +525,6 @@ footer span:hover {
     align-items: flex-start;
     flex-direction: column ;
     justify-content: space-between;
-    }
-    @keyframes aboutSpinner {
-    60% {
-        transform: translate(-50% , -50%) rotate(360deg);
     }
 }
 @media(max-width: 425px) {
@@ -628,9 +620,5 @@ footer span:hover {
     align-items: center;
     flex-direction: column ;
     justify-content: space-between;
-    }
-    @keyframes aboutSpinner {
-    50% {
-        transform: translate(-50% , -50%) rotate(360deg);
     }
 }
