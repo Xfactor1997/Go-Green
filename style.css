@@ -611,9 +611,9 @@ footer span:hover {
     }
     .review-box iframe {
     width: 370px;
-    height: 150px;
+    height: auto;
     left: 0;
-    margin-top: 30px;
+    margin-top: 50px;
     border:none;
     display: block;
     align-items: center;
