@@ -620,4 +620,8 @@ footer span:hover {
     flex-direction: column ;
     justify-content: space-between;
     }
+    .contact {
+        max-width: 350px;
+        height: auto;
+    }
 }
