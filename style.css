@@ -510,7 +510,7 @@ footer span:hover {
         width: 100%;
     }
     .offers {
-        padding: 50px 2%;
+        padding: 30px 2%;
         transition: .2s;
         width: 50%;
         height: auto;
@@ -519,7 +519,7 @@ footer span:hover {
         align-items: center;
     }
     #basic , #standard, #premium {
-    width: 350px;
+    width: 500px;
     height: 450px;
     border: 1px solid var(--main-color);
     border-radius: 5px;
