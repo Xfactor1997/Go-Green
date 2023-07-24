@@ -553,6 +553,7 @@ footer span:hover {
         width: 100%;
     }
     .home-text {
+        margin-left: 5px;
         padding-top: 10px;
     }
     .home-text h1 {
@@ -623,10 +624,6 @@ footer span:hover {
     .contact {
         max-width: 350px;
         height: auto;
-    }
-    .input-field {
-        width: 20px;
-        height:5px;
     }
     .input-field placeholder {
         font-size: 5px;
