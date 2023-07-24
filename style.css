@@ -624,4 +624,11 @@ footer span:hover {
         max-width: 350px;
         height: auto;
     }
+    .input-field {
+        width: 20px;
+        height:5px;
+    }
+    .input-field placeholder {
+        font-size: 5px;
+    }
 }
