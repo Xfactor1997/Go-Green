@@ -573,6 +573,16 @@ footer span:hover {
     .about {
         grid-template-columns: 1fr;
     }
+    .main-text h1 {
+        font-size:15px;
+    }
+    .main-text p {
+        font-size:10px;
+    }
+    .main-text {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
     .about-img {
         text-align: center;
     }
