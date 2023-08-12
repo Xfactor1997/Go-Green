@@ -650,7 +650,7 @@ footer span:hover {
     justify-content: space-between;
     }
     .contact {
-        max-width: 350px;
+        max-width: 400px;
         height: auto;
     }
     .input-field input {
@@ -662,6 +662,6 @@ footer span:hover {
         height: 30px;
     }
     .input-field placeholder {
-        font-size: 5px;
+        font-size: 2px;
     }
 }
