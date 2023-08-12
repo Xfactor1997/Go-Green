@@ -664,6 +664,6 @@ footer span:hover {
     }
     .input-field placeholder {
         text-align: left;
-        font-size: 1px;
+        font-size: 0.5px;
     }
 }
