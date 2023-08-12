@@ -597,6 +597,7 @@ footer span:hover {
         font-size:15px;
     }
     .main-text {
+        text-align: center;
         margin-left: 10px;
         margin-right: 10px;
     }
@@ -654,7 +655,7 @@ footer span:hover {
         height: auto;
     }
     .input-field input {
-        width:25px;
+        width: 25px;
         height: 5px;
     }
     .textarea-field text area {
